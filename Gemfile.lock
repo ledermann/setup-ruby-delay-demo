@@ -3,6 +3,8 @@ GEM
   specs:
     rack (3.0.8)
     rake (13.1.0)
+    sinatra (1.0)
+      rack (>= 1.0)
 
 PLATFORMS
   ruby
@@ -10,6 +12,7 @@ PLATFORMS
 DEPENDENCIES
   rack
   rake
+  sinatra
 
 RUBY VERSION
    ruby 3.2.2p53
